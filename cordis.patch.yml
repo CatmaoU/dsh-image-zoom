@@ -1,0 +1,4 @@
+# dsh-image-zoom bundle：向组合挂 Node half（空 apply，行为全在 client）
+- insert:
+    - id: dsh-image-zoom
+      name: 'dsh-image-zoom'
